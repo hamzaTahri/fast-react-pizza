@@ -14,7 +14,7 @@ function CartItem({item}) {
             </p>
             <div className="flex items-center justify-between sm:gap-6">
                 <p className="text-sm font-bold">{formatCurrency(totalPrice)}</p>
-                <UpdateItemQuantity pizzaId={pizzaId}/>
+                <UpdateItemQuantity pizzaId={pizzaId} currentQuantity={quantity}/>
                 <DeleteItem pizzaId={pizzaId}/>
             </div>
         </li>
