@@ -81,5 +81,8 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
+## Screenshots
 
-Thank you for using the Pizza Project! Enjoy ordering your favorite pizzas hassle-free. If you have any questions or need assistance, don't hesitate to reach out to us. Happy pizza ordering! 🍕🎉
+For screenshots of the Pizza Project in action, please visit [My Portfolio](https://hamzatahri.github.io/).
+
+Feel free to explore the screenshots to get a glimpse of the Pizza Project's user interface and functionalities!
