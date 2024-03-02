@@ -1,4 +1,4 @@
-# Pizza Project README
+# Pizza Project
 
 Welcome to the Pizza Project! This is a web application built using React with JavaScript, Redux Toolkit for state management, Vite for fast development, Tailwind CSS for styling, and fetching data from an API. The project allows users to browse a menu, place orders for pizza, view their order status, and update order priorities.
 
