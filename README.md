@@ -83,6 +83,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 ## Screenshots
 
-For screenshots of the Pizza Project in action, please visit [My Portfolio](https://hamzatahri.github.io/).
+For screenshots of the Pizza Project in action, please visit [My Portfolio](https://hamzatahri.github.io/reactPizza-details.html).
 
 Feel free to explore the screenshots to get a glimpse of the Pizza Project's user interface and functionalities!
